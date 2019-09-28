@@ -1,4 +1,4 @@
-Aho-Corasick is a multiple string matching algorithm
+# Aho-Corasick is a multiple string matching algorithm
 
 I implement the algorithm in trie.go
 In filter.go, I use the built trie to search sensitive words,and filter them out
