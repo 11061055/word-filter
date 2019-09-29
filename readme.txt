@@ -1,4 +1,6 @@
 
+项目背景是直播后台消息通道敏感词过滤
+
 Aho-Corasick is a multiple string matching algorithm.
 
 I implement the algorithm in trie.go
