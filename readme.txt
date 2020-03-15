@@ -1,5 +1,9 @@
 
-项目背景是直播后台消息通道敏感词过滤
+## 项目背景 BackGround
+
+直播后台消息通道敏感词过滤
+
+## Description
 
 Aho-Corasick is a multiple string matching algorithm.
 
@@ -19,3 +23,7 @@ I tested for a dictionary file which contains 140W lines of diffrent sensitive p
 For further optimization, you can allocate larger memory every time to avoid memory fragmentation.
 
 For more details, please refer to book named "Flexible Pattern Matching Strings".
+
+## Citation
+
+Cited by : [Cyber Security and Foundations of Cryptography](https://github.com/11061055/php-7.3.0-ext-curl/wiki/0.-%E7%BD%91%E7%BB%9C_____%E5%AF%86%E7%A0%81%E5%AD%A6%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8)
