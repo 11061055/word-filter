@@ -1,7 +1,7 @@
 
-## 项目背景 BackGround
+## BackGround
 
-直播后台消息通道敏感词过滤
+Sensitive words filtering.
 
 ## Description
 
