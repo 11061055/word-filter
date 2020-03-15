@@ -39,4 +39,5 @@ For more details, please refer to book named "Flexible Pattern Matching Strings"
 ## Citation
 
 Refer to : [Flexible Pattern Matching Strings](https://www.cambridge.org/core/books/flexible-pattern-matching-in-strings/D610D1F9C4744A864D73904B24EF602B)
+
 Cited by : [Cyber Security and Foundations of Cryptography](https://github.com/11061055/php-7.3.0-ext-curl/wiki/0.-%E7%BD%91%E7%BB%9C_____%E5%AF%86%E7%A0%81%E5%AD%A6%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8)
